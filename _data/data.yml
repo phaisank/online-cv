@@ -51,9 +51,9 @@ career-profile:
     title: Career Profile
     summary: |
       A Passionate Data Management Professional with 10 + years 
-      of experience in analytical data processing area, strong analytical skill, 
-      and extensive background in services management. Expertise in SQL, SAS, 
-      Python and R with self-taught skill of Cloud Technology (MS Azure).
+      of experience in Managment Information System, Analytical Data Processing area 
+      with strong analytical skill, and extensive background in services management. 
+      Expertise in SQL, SAS, Python and R with self-taught skill of Cloud Technology (MS Azure).
 education:
     title: Education
     info:
@@ -89,53 +89,53 @@ experiences:
         time: 2018 - Present
         company: CIMB THAI Bank PCL.
         details: |
-          Explore, organize and manipulate data across bank data sources to develops data mart infrastructure.
-            - Develops and drives multiple data-driven analytical projects in Consumer Banking and Risk Management.
-            - Mentor MIS Team for technical architecture matters
+          - Explore, organize and collect data across bank data sources to develops data mart infrastructure.
+          - Develops and drives multiple data-driven analytical projects in Consumer Banking and Risk Management.
+          - Mentor MIS Team for technical architecture matters
       - role: AVP, Analytics Support
         time: 2015 - 2018
         company: United Overseas Bank (Thai) PCL.
         details: |
-            - Monitoring and Maintaining an exsiting data mart infrastructure
-            - Analysis, Design and implementing data mart enhancement covering portfolio management, marketing performance tracking as well as strategic planning
-            - Automated existing SAS program to be runned smoothly on SAS BI Platform
-            - Maintaining the data preparation and execution of Marketing Campaign Processes
-            - Support Adhoc Data Inquiry/Analysis Request to support decision making on business activities
+          - Monitoring and Maintaining an existing data mart infrastructure
+          - Analysis, Design and implementing data mart enhancement covering portfolio management, marketing performance tracking as well as strategic planning
+          - Transform existing SAS programs to be executed automatically on SAS BI Platform
+          - Maintaining the data preparation and execution of Marketing Campaign Processes
+          - Support Adhoc Data Inquiry/Analysis Request to support business decision making
       - role: Services Delivery Manager
         time: 2011 - 2015
         company: Oracle Corporation (Thailand)
         details: |
-          Single Point of Contact responsible for the post sales support management of Oracle's Product.
-            - Share Oracle's best practices and provide proactive and reactive situation management to help maximize the value of customer's investment in Oracle Products
-            - Recommendation and Implementation of Oracle's support processes and tools
-            - Plan and Coordinate the delivery of Advanced Customer Services Program with Customer and Oracle's Service Delivery Engineer.
-            - Working across Lines of Business in Oracle to develop account plan for managed customers to align customer's strategies and goal with Oracle Initiatives.
+          - Single Point of Contact for the post sales support management.
+          - Share Oracle's best practices and provide proactive and reactive situation management to help maximize the value of customer's investment in Oracle Products
+          - Recommendation and Implementation of Oracle's support processes and tools
+          - Plan and Coordinate the delivery of Advanced Customer Services Program with Customer and Oracle's Service Delivery Engineer.
+          - Working across Lines of Business in Oracle to develop account plan for managed customers to align customer's strategies and goal with Oracle Initiatives.
       - role: Database Operation Team Leader
         time: 2011
         company: Wunderman Thailand
         details: |
-          Lead team for supporting data-driven marketing activities across ASEAN markets for a major global client
-            - Administration of Oracle CRM On-Demand Application
-            - Manage weekly discussion with the team across countries
+          - Lead team for supporting data-driven marketing activities across ASEAN markets for a major global client
+          - Administration of Oracle CRM On-Demand Application
+          - Manage weekly discussion with the team across countries
       - role: Business Intelligence Consultant
         time: 2008 - 2011
         company: Lawson Software (Thailand)
         details: |
-          Providing Consultation for Lawson Software's BI Solution.
-            - Gathering business requirement for reporting and data integration matters
-            - Data Mart Design & Implementation based on Lawson Software's BI Solution
-            - Install and configure relevant software components.
-            - Assistance for Pre-sales activities relevant to the solution.
-            - Support Client for troubleshooting and maintenance issues
+          - Providing Consultation for Lawson Software's BI Solution.
+          - Gathering business requirement for reporting and data integration matters
+          - Data Mart Design & Implementation based on Lawson Software's BI Solution
+          - Install and configure relevant software components.
+          - Assistance for Pre-sales activities relevant to the solution.
+          - Support Client for troubleshooting and maintenance issues
       - role: Technical Consultant, Data Management Team
         time: 2005 - 2008
         company: International Research Corporation PCL.
         details: |
-          BI solution Implementation based on SAS BI Solution.
-            - Data Warehouse Project Implementation (Design, Development and Test) 
-            - Involving in Project Selling Processes from start to finish including
-              - Assess customer requirement and propose an effective solution through the product presentation, demonstration as well as the prove of concept.
-              - Response for the relevant customer's RFIs, RFQs and RFPs Processes.
+          - BI solution Implementation based on SAS BI Solution.
+          - Data Warehouse Project Implementation (Design, Development and Test) 
+          - Involving in BI Project Selling Processes from start to finish including
+            - Assess customer requirement and propose an effective solution through the product presentation, demonstration as well as the prove of concept.
+            - Response for the relevant customer's RFIs, RFQs and RFPs Processes.
       - role: Sales Consultant
         time: 2003 - 2005
         company: Extreme Systems Co., Ltd.
