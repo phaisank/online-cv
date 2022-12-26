@@ -16,7 +16,7 @@ sidebar:
     phone: 089 775 6399
     # timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website:
     linkedin: phaisank
     xing:
     github: phaisank
@@ -66,7 +66,22 @@ education:
         university: Kasetsart University
         time: 1994 - 1998
         details: |
-          ...       
+          ...
+      - degree: Hadoop Data Management with Hive, Pig, and SAS
+        university:
+        time:
+        details: |
+          ...
+      - degree: Microsoft Certified Azure Fundamental
+        university:
+        time:
+        details: |
+          ...
+      - degree: Microsoft Certified Azure Data Fundamental
+        university:
+        time:
+        details: |
+          ...          
 experiences:
     title: Experiences
     info:
