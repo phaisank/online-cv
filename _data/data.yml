@@ -17,7 +17,7 @@ sidebar:
     # timezone: America/Cancun Timezone
     citizenship:
     website:
-    linkedin: phaisank
+    linkedin: phaisan
     xing:
     github: phaisank
     telegram: # add your nickname without '@' sign
@@ -159,10 +159,10 @@ skills:
         level: 60%
 
       - name: Tableau
-        level: 60%
+        level: 45%
 
       - name: MS Azure
-        level: 60%
+        level: 45%
 
       - name: MS Power BI
         level: 30%
