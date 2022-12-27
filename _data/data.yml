@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://1drv.ms/b/s!AvY9L2E3U_rX2FRGXbUigDfpB0mL?e=GKBnf4
 
     languages:
       title: Languages
@@ -96,11 +96,11 @@ experiences:
         time: 2015 - 2018
         company: United Overseas Bank (Thai) PCL.
         details: |
-          - Monitoring and Maintaining an existing data mart infrastructure
+          - Monitoring and maintaining an existing Retail Data Mart Infrastructure
           - Analysis, Design and implementing data mart enhancement covering portfolio management, marketing performance tracking as well as strategic planning
-          - Transform existing SAS programs to be executed automatically on SAS BI Platform
           - Maintaining the data preparation and execution of Marketing Campaign Processes
-          - Support Adhoc Data Inquiry/Analysis Request to support business decision making
+          - Consolidate existing SAS Programs to develop automated data processing
+          - Support Ad hoc Data Inquiry/Analysis Request to support business decision making
       - role: Services Delivery Manager
         time: 2011 - 2015
         company: Oracle Corporation (Thailand)
@@ -108,7 +108,7 @@ experiences:
           - Single Point of Contact for the post sales support management.
           - Share Oracle's best practices and provide proactive and reactive situation management to help maximize the value of customer's investment in Oracle Products
           - Recommendation and Implementation of Oracle's support processes and tools
-          - Plan and Coordinate the delivery of Advanced Customer Services Program with Customer and Oracle's Service Delivery Engineer.
+          - Plan and coordinate the delivery of Advanced Customer Services Program with Customer and Oracle's Service Delivery Engineer.
           - Working across Lines of Business in Oracle to develop account plan for managed customers to align customer's strategies and goal with Oracle Initiatives.
       - role: Database Operation Team Leader
         time: 2011
