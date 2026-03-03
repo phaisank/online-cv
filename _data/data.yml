@@ -89,11 +89,10 @@ experiences:
         time: 2020 - Present
         company: CIMB THAI Bank PCL.
         details: |
-          - Managing an operation of ALM's Software Solution.
-          - Maintaining ALM Data Mart
-          - Migrating an existing ALM Data Mart to cloud-based platform
-          - Work closely with IT to improve existing integration architecture
-          - Process improvement by automating repetitive tasks.
+          - Managed operations of ALM Data Mart and Regulatory Reporting software, ensuring compliance and data accuracy.
+          - Led implementation of change request (CRs) and new projects aligned with business initiatives.
+          - Collaborated closely with IT teams on technical and infrastructure requirements to support seamless delivery.
+          - Design and deployed automation initiatives that streamlined processes, cutting manual effort and boosting team productivity.
       - role: AVP, Data Management
         time: 2018 - 2020
         company: CIMB THAI Bank PCL.
@@ -179,4 +178,5 @@ skills:
 footer: >
 
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
 
