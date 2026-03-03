@@ -112,8 +112,8 @@ experiences:
           - Share Oracle's best practices and provide proactive and reactive situation management to help maximize the value of customer's investment in Oracle Products
           - Plan and coordinate the delivery of Advanced Customer Services Program with Customer and Oracle's Service Delivery Engineer.
       - role: Technical Consultant (Data Management) | Sales Consultant
-        time: (2003-2008)
-        company: Role: Early Career Foundation
+        time: 2003 - 2008
+        company: Early Career Foundation
         details: |
           - Data Warehouse Implementation: Developed foundational expertise in the full lifecycle of Data Warehouse projects, from design and development to testing using SAS BI solutions.
           - Solution Design & Pre-sales: Supported project acquisition by assessing customer requirements, creating Proof of Concepts (PoC), and managing technical responses for RFIs/RFPs.
@@ -147,5 +147,6 @@ skills:
 footer: >
 
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
 
 
