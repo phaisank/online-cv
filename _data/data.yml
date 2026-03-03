@@ -53,7 +53,7 @@ career-profile:
       A Passionate Data Management Professional with 10 + years 
       of experience in Managment Information System, Analytical Data Processing area 
       with strong analytical skill, and extensive background in services management. 
-      Expertise in SQL, SAS, Python and R with self-taught skill of Cloud Technology (MS Azure).
+      Expertise in SQL, Python with experience in SAS and clould-based platform like Databricks.
 education:
     title: Education
     info:
@@ -85,8 +85,17 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: VP, Business Solution & Reporting
+        time: 2020 - Present
+        company: CIMB THAI Bank PCL.
+        details: |
+          - Managing an operation of ALM's Software Solution.
+          - Maintaining ALM Data Mart
+          - Migrating an existing ALM Data Mart to cloud-based platform
+          - Work closely with IT to improve existing integration architecture
+		  - Process improvement by automating repetitive tasks.
       - role: AVP, Data Management
-        time: 2018 - Present
+        time: 2018 - 2020
         company: CIMB THAI Bank PCL.
         details: |
           - Explore, organize and collect data across bank data sources to develops data mart infrastructure.
@@ -168,4 +177,5 @@ skills:
         level: 30%
 
 footer: >
+
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
